@@ -1338,7 +1338,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>20</integer>
+			<integer>3</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
