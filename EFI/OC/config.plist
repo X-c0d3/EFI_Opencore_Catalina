@@ -1471,7 +1471,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C029266004NJG361F</string>
+			<string>C02027207QXJG36A8</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -1479,9 +1479,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YXMZNHX87</string>
+			<string>C02D1LZ2HX87</string>
 			<key>SystemUUID</key>
-			<string>01634845-0C53-4EA6-89E4-6A4B61D28C73</string>
+			<string>102FBFE1-B7CB-49B3-88A1-4BD36E22F881</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
