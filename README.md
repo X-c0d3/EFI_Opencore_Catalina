@@ -27,3 +27,5 @@ Supports Triple Monitor <br />
 2 USB 3.1 Gen2 (Rear Type-A+C) <br />
 6 USB 3.1 Gen1 (2 Front, 4 Rear) <br />
 Realtek Gigabit LAN <br />
+
+![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_056.jpg)
