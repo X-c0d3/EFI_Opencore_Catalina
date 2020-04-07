@@ -30,4 +30,20 @@ Supports Triple Monitor <br />
 Realtek Gigabit LAN <br />
 
 
+### BIOS Settings ###
+   HPET               = Enabled<br />
+   Sata Mode          = AHCI<br />
+   IOMMU              = Disabled<br />
+   APU / Integrated Graphics = Disabled <br />
+   GPU / Graphics Priority   = PEG/PCI<br />
+   Serial Port        = Disabled<br />
+   Parallel Port      = Disabled<br />
+   Legacy USB Support      = Enabled<br />
+   AS Media 3.1/3.0 controller     = Enabled<br /> 
+   EHCI Handoff       = Enabled<br />
+   XHCI Handoff       = Enabled<br />
+   SECURE BOOT        = Disabled / Other OS<br />
+
+<br />
+<br />
 Happy Hacking!
