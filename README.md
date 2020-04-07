@@ -1,3 +1,4 @@
+![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_056.jpg)
 
 ### EFI - Opencore 0.5.6 for Catalina 10.15.3 ###
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
@@ -28,4 +29,4 @@ Supports Triple Monitor <br />
 6 USB 3.1 Gen1 (2 Front, 4 Rear) <br />
 Realtek Gigabit LAN <br />
 
-![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_056.jpg)
+Happy hacking ;)
