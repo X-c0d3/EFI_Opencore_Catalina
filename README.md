@@ -29,4 +29,5 @@ Supports Triple Monitor <br />
 6 USB 3.1 Gen1 (2 Front, 4 Rear) <br />
 Realtek Gigabit LAN <br />
 
-Happy hacking ;)
+
+Happy Hacking!
