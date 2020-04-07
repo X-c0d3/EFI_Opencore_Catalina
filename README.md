@@ -16,7 +16,7 @@ WIFI/Bluetooth : BCM943602CS  (native supported)<br />
 
 
 
-### Mainboard spec Asrock B450 Gaming K4 ####
+### Asrock B450 Gaming K4 Spec ####
 AMD AM4 Socket <br />
 Supports DDR4 3200+ (OC) <br />
 2 PCIe 3.0 x16, 4 PCIe 2.0 x1 <br />
