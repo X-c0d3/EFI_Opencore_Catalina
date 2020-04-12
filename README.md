@@ -1,6 +1,6 @@
 ![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_056.jpg)
 
-### EFI - Opencore 0.5.6 for Catalina 10.15.4 ###
+### EFI - Opencore 0.5.7 for Catalina 10.15.4 ###
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
 Ram: Kingston HyperX FURY Black 16G (8x2) <br />
