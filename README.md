@@ -44,6 +44,6 @@ Realtek Gigabit LAN <br />
    XHCI Handoff       = Enabled<br />
    SECURE BOOT        = Disabled / Other OS<br />
 
-<br />
+
 <br />
 Happy Hacking!
