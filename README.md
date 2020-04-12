@@ -5,9 +5,9 @@ CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
 Ram: Kingston HyperX FURY Black 16G (8x2) <br />
 SSD: Samsung SSD 970 Evo<br />
-Audio: Realtek ALC892<br />
-Lan : Realtek RTL8111H<br />
-GPU : RX 580 8G<br />
+Audio: Realtek ALC892 (worked) <br />
+Lan : Realtek RTL8111H (worked)<br />
+GPU : RX 580 8G native supported (worked)<br />
 WIFI/Bluetooth : BCM943602CS  (native supported)<br />
 
 - Apple magic mouse (worked)
