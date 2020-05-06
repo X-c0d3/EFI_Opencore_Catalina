@@ -1,6 +1,7 @@
 ![alt text](https://rockdevper.no-ip.org/download/hackintosh_opencore_056.jpg)
 
-### EFI - Opencore 0.5.7 for Catalina 10.15.4 ###
+### EFI - Opencore 0.5.8 for Catalina 10.15.4
+
 CPU: AMD Ryzen 7 1700X (8-Core, 16-Thread)<br />
 MB: ASRock Fatal1ty B450 Gaming K4<br />
 Ram: Kingston HyperX FURY Black 16G (8x2) <br />
@@ -8,15 +9,14 @@ SSD: Samsung SSD 970 Evo<br />
 Audio: Realtek ALC892 (worked) <br />
 Lan : Realtek RTL8111H (worked)<br />
 GPU : RX 580 8G native supported (worked)<br />
-WIFI/Bluetooth : BCM943602CS  (native supported)<br />
+WIFI/Bluetooth : BCM943602CS (native supported)<br />
 
 - Apple magic mouse (worked)
 - Apple magic keyboard (worked)
 - Airdrop (worked)
 
+### Asrock B450 Gaming K4 Spec
 
-
-### Asrock B450 Gaming K4 Spec ####
 AMD AM4 Socket <br />
 Supports DDR4 3200+ (OC) <br />
 2 PCIe 3.0 x16, 4 PCIe 2.0 x1 <br />
@@ -29,21 +29,20 @@ Supports Triple Monitor <br />
 6 USB 3.1 Gen1 (2 Front, 4 Rear) <br />
 Realtek Gigabit LAN <br />
 
+### BIOS Settings
 
-### BIOS Settings ###
-   HPET               = Enabled<br />
-   Sata Mode          = AHCI<br />
-   IOMMU              = Disabled<br />
-   APU / Integrated Graphics = Disabled <br />
-   GPU / Graphics Priority   = PEG/PCI<br />
-   Serial Port        = Disabled<br />
-   Parallel Port      = Disabled<br />
-   Legacy USB Support      = Enabled<br />
-   AS Media 3.1/3.0 controller     = Enabled<br /> 
-   EHCI Handoff       = Enabled<br />
-   XHCI Handoff       = Enabled<br />
-   SECURE BOOT        = Disabled / Other OS<br />
-
+HPET               = Enabled<br />
+Sata Mode          = AHCI<br />
+IOMMU              = Disabled<br />
+APU / Integrated Graphics = Disabled <br />
+GPU / Graphics Priority   = PEG/PCI<br />
+Serial Port        = Disabled<br />
+Parallel Port      = Disabled<br />
+Legacy USB Support      = Enabled<br />
+AS Media 3.1/3.0 controller     = Enabled<br />
+EHCI Handoff       = Enabled<br />
+XHCI Handoff       = Enabled<br />
+SECURE BOOT        = Disabled / Other OS<br />
 
 <br />
 Happy Hacking!
